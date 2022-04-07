@@ -1,7 +1,7 @@
-![image](https://user-images.githubusercontent.com/67637716/162231530-dba49dd3-c980-4dce-8b11-6de320586b6d.p)
+![image](https://user-images.githubusercontent.com/67637716/162233324-45944d33-035b-4b6e-b630-c3aeb246973e.png)  
 
-# 나의 풀이
-```
+# 나의 풀이  
+``` java
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
