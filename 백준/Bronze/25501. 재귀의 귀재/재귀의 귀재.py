@@ -1,3 +1,5 @@
+import sys
+
 def recursion(s, l, r, cnt):
     cnt += 1
     if l >= r:
@@ -14,7 +16,7 @@ def isPalindrome(s):
 
 # 결과와 실행횟수 구하기
 
-T = int(input())
+T = int(sys.stdin.readline().strip())
 for i in range(T):
-    text = input()
+    text = sys.stdin.readline().strip()
     isPalindrome(text)
