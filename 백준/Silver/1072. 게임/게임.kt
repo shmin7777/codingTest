@@ -7,7 +7,7 @@ fun main() {
 
         var answer = -1
         val currentRate = getRate(totalCnt, winCnt)
-        if (currentRate != -1) {
+        if (currentRate != 1) {
             var left = 1
             var right = totalCnt
 
